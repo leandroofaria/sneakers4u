@@ -8,3 +8,48 @@
     max-width: 1200px;
     margin: 0 auto;
 }
+
+
+.card {
+    width: 31%;
+    display: inline-block;
+    margin: 1% 1%;
+    padding: 15px;
+}
+
+.product-image {
+    height: 300px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+}
+
+#img-1 {
+    background-image: url('../img/slipstream.png');
+}
+
+#img-2 {
+    margin-bottom: 15px;
+    background-image: url('../img/adidaslow.png');
+}
+
+#img-3 {
+    background-image: url('../img/airmax.png');
+}
+
+#img-4 {
+    background-image: url('../img/jordan.png');
+}
+
+#img-5 {
+    background-image: url('../img/newbalance.png');
+}
+
+#img-6 {
+    background-image: url('../img/pumasuede.png');
+}
+
+#adidastexto {
+    margin-bottom: 30px;
+}
